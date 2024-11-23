@@ -35,5 +35,5 @@ python intass.py assemble input.txt output.bin log.xml
 ```
 or
 ```
-python intass.py assemble input.txt output.bin log.xml
+intass.py assemble input.txt output.bin log.xml
 ```
